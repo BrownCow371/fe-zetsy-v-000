@@ -60,6 +60,7 @@ footer {
 
 #press a {
   border: .25em solid #CCCCCC;
+  margin-bottom: 20px;
 }
 
 #press a:hover {
