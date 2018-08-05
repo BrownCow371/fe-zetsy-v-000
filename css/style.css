@@ -23,10 +23,6 @@ body {
 /* Write all remaining styles here */
 /*/////////////LOGO///////////*/
 
-* {
-	padding: 0;
-	margin: 0;
-}
 
 #logo {
   font-size: 2em;
