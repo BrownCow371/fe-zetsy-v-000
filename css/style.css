@@ -44,10 +44,9 @@ figure {
   margin: 0 auto;
   border: .25em solid #6F7F7A;
 }
-.about p {
-  font-family: 'Baskerville', serif;
+/*.about p {
   font-size: .75em;
-}
+}*/
 
 #press h2 {
   color: #6F7F7A;
