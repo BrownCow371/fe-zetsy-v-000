@@ -1,6 +1,9 @@
 /*////////////// Fonts //////////////*/
 
-@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700');
+@font-face {
+	font-family: 'Baskerville';
+	src: url(../fonts/Baskerville.ttc);
+}
 
 /*////////// Global Styles //////////*/
 
@@ -22,13 +25,13 @@ body {
 #logo {
   font-size: 2em;
   color: #6F7F7A;
-  font-family: 'Libre Baskerville', serif;
+  font-family: 'Baskerville', serif;
   font-weight: bold;
 }
 
 #about h2 {
   color: #6F7F7A;
-  font-family: 'Libre Baskerville', serif;
+  font-family: 'Baskerville', serif;
 }
 
 figure {
@@ -36,13 +39,13 @@ figure {
   border: .25em solid #6F7F7A;
 }
 .about p {
-  font-family: 'Libre Baskerville', serif;
+  font-family: 'Baskerville', serif;
   font-size: .75em;
 }
 
 #press h2 {
   color: #6F7F7A;
-  font-family: 'Libre Baskerville', serif;
+  font-family: 'Baskerville', serif;
 }
 
 footer {
